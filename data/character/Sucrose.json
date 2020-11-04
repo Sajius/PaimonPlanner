@@ -1,0 +1,87 @@
+{
+    "name": "Sucrose",
+    "weapon": "catalyst",
+    "element": "anemo",
+    "rarity": 4,
+    "materials": {
+        "ascension": [
+            {
+                "Vayuda Turquoise Sliver": 1,
+                "Windwheel Aster": 3,
+                "Whopperflower Nectar": 3
+            },
+            {
+                "Vayuda Turquoise Fragment": 3,
+                "Hurricane Seed": 2,
+                "Windwheel Aster": 10,
+                "Whopperflower Nectar": 15
+            },
+            {
+                "Vayuda Turquoise Fragment": 6,
+                "Hurricane Seed": 4,
+                "Windwheel Aster": 20,
+                "Shimmering Nectar": 12
+            },
+            {
+                "Vayuda Turquoise Chunk": 3,
+                "Hurricane Seed": 8,
+                "Windwheel Aster": 30,
+                "Shimmering Nectar": 18
+            },
+            {
+                "Vayuda Turquoise Chunk": 6,
+                "Hurricane Seed": 12,
+                "Windwheel Aster": 45,
+                "Energy Nectar": 12
+            },
+            {
+                "Vayuda Turquoise Gemstone": 6,
+                "Hurricane Seed": 20,
+                "Windwheel Aster": 60,
+                "Energy Nectar": 24
+            }
+        ],
+        "talent": [
+            {
+                "Teachings of Freedom": 3,
+                "Whopperflower Nectar": 6
+            },
+            {
+                "Guide to Freedom": 2,
+                "Shimmering Nectar": 3
+            },
+            {
+                "Guide to Freedom": 4,
+                "Shimmering Nectar": 4
+            },
+            {
+                "Guide to Freedom": 6,
+                "Shimmering Nectar": 6
+            },
+            {
+                "Guide to Freedom": 9,
+                "Shimmering Nectar": 9
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Energy Nectar": 4,
+                "Spirit Locket of Boreas": 1
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Energy Nectar": 6,
+                "Spirit Locket of Boreas": 1
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Energy Nectar": 15,
+                "Spirit Locket of Boreas": 1
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Energy Nectar": 20,
+                "Spirit Locket of Boreas": 2
+            }
+        ]
+    }
+}
