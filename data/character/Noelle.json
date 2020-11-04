@@ -1,0 +1,87 @@
+{
+    "name": "Noelle",
+    "weapon": "claymore",
+    "element": "geo",
+    "rarity": 4,
+    "materials": {
+        "ascension": [
+            {
+                "Prithiva Topaz Sliver": 1,
+                "Valberry": 3,
+                "Damaged Mask": 3
+            },
+            {
+                "Prithiva Topaz Fragment": 3,
+                "Basalt Pillar": 2,
+                "Valberry": 10,
+                "Damaged Mask": 15
+            },
+            {
+                "Prithiva Topaz Fragment": 6,
+                "Basalt Pillar": 4,
+                "Valberry": 20,
+                "Stained Mask": 12
+            },
+            {
+                "Prithiva Topaz Chunk": 3,
+                "Basalt Pillar": 8,
+                "Valberry": 30,
+                "Stained Mask": 18
+            },
+            {
+                "Prithiva Topaz Chunk": 6,
+                "Basalt Pillar": 12,
+                "Valberry": 45,
+                "Ominous Mask": 12
+            },
+            {
+                "Prithiva Topaz Gemstone": 6,
+                "Basalt Pillar": 20,
+                "Valberry": 60,
+                "Ominous Mask": 24
+            }
+        ],
+        "talent": [
+            {
+                "Teachings of Resistance": 3,
+                "Damaged Mask": 6
+            },
+            {
+                "Guide to Resistance": 2,
+                "Stained Mask": 3
+            },
+            {
+                "Guide to Resistance": 4,
+                "Stained Mask": 4
+            },
+            {
+                "Guide to Resistance": 6,
+                "Stained Mask": 6
+            },
+            {
+                "Guide to Resistance": 9,
+                "Stained Mask": 9
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 4,
+                "Dvalin's Claw": 1
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 6,
+                "Dvalin's Claw": 1
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 15,
+                "Dvalin's Claw": 1
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 20,
+                "Dvalin's Claw": 2
+            }
+        ]
+    }
+}

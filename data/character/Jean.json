@@ -1,0 +1,87 @@
+{
+    "name": "Jean",
+    "weapon": "sword",
+    "element": "anemo",
+    "rarity": 5,
+    "materials": {
+        "ascension": [
+            {
+                "Vayuda Turquoise Sliver": 1,
+                "Dandelion Seed": 3,
+                "Damaged Mask": 3
+            },
+            {
+                "Vayuda Turquoise Fragment": 3,
+                "Hurricane Seed": 2,
+                "Dandelion Seed": 10,
+                "Damaged Mask": 15
+            },
+            {
+                "Vayuda Turquoise Fragment": 6,
+                "Hurricane Seed": 4,
+                "Dandelion Seed": 20,
+                "Stained Mask": 12
+            },
+            {
+                "Vayuda Turquoise Chunk": 3,
+                "Hurricane Seed": 8,
+                "Dandelion Seed": 30,
+                "Stained Mask": 18
+            },
+            {
+                "Vayuda Turquoise Chunk": 6,
+                "Hurricane Seed": 12,
+                "Dandelion Seed": 45,
+                "Ominous Mask": 12
+            },
+            {
+                "Vayuda Turquoise Gemstone": 6,
+                "Hurricane Seed": 20,
+                "Dandelion Seed": 60,
+                "Ominous Mask": 24
+            }
+        ],
+        "talent": [
+            {
+                "Teachings of Resistance": 3,
+                "Damaged Mask": 6
+            },
+            {
+                "Guide to Resistance": 2,
+                "Stained Mask": 3
+            },
+            {
+                "Guide to Resistance": 4,
+                "Stained Mask": 4
+            },
+            {
+                "Guide to Resistance": 6,
+                "Stained Mask": 6
+            },
+            {
+                "Guide to Resistance": 9,
+                "Stained Mask": 9
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 4,
+                "Dvalin's Plume": 1
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 6,
+                "Dvalin's Plume": 1
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 15,
+                "Dvalin's Plume": 1
+            },
+            {
+                "Philosophies of Resistance": 3,
+                "Ominous Mask": 20,
+                "Dvalin's Plume": 2
+            }
+        ]
+    }
+}
