@@ -1,0 +1,87 @@
+{
+    "name": "Klee",
+    "weapon": "catalyst",
+    "element": "pyro",
+    "rarity": 5,
+    "materials": {
+        "ascension": [
+            {
+                "Agnidus Agate Sliver": 1,
+                "Philanemo Mushroom": 3,
+                "Divining Scroll": 3
+            },
+            {
+                "Agnidus Agate Fragment": 3,
+                "Everflame Seed": 2,
+                "Philanemo Mushroom": 10,
+                "Divining Scroll": 15
+            },
+            {
+                "Agnidus Agate Fragment": 6,
+                "Everflame Seed": 4,
+                "Philanemo Mushroom": 20,
+                "Sealed Scroll": 12
+            },
+            {
+                "Agnidus Agate Chunk": 3,
+                "Everflame Seed": 8,
+                "Philanemo Mushroom": 30,
+                "Sealed Scroll": 18
+            },
+            {
+                "Agnidus Agate Chunk": 6,
+                "Everflame Seed": 12,
+                "Philanemo Mushroom": 45,
+                "Forbidden Curse Scroll": 12
+            },
+            {
+                "Agnidus Agate Gemstone": 6,
+                "Everflame Seed": 20,
+                "Philanemo Mushroom": 60,
+                "Forbidden Curse Scroll": 24
+            }
+        ],
+        "talent": [
+            {
+                "Teachings of Freedom": 3,
+                "Divining Scroll": 6
+            },
+            {
+                "Guide to Freedom": 2,
+                "Sealed Scroll": 3
+            },
+            {
+                "Guide to Freedom": 4,
+                "Sealed Scroll": 4
+            },
+            {
+                "Guide to Freedom": 6,
+                "Sealed Scroll": 6
+            },
+            {
+                "Guide to Freedom": 9,
+                "Sealed Scroll": 9
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Forbidden Curse Scroll": 4,
+                "Ring of Boreas": 1
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Forbidden Curse Scroll": 6,
+                "Ring of Boreas": 1
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Forbidden Curse Scroll": 15,
+                "Ring of Boreas": 1
+            },
+            {
+                "Philosophies of Freedom": 3,
+                "Forbidden Curse Scroll": 20,
+                "Ring of Boreas": 2
+            }
+        ]
+    }
+}
