@@ -1,26 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Cookies from 'universal-cookie';
+import CharacterInventory from './CharacterInventory';
+
+const cookies = new Cookies();
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main className="App">
+      <p>Hello Paimon</p>
+      <CharacterInventory cookies={cookies} />
+      <p>Klee: {cookies.get('klee')}</p>
+      <p>Noelle: {cookies.get('noelle')}</p>
+      {/* Tab Component */}
+      {/* Character Selection Comp */}
+      {/* Material Calendar Comp */}
+      {/* Suggestion Comp */}
+      {/* Character Selection Component */}
+      {/* Footer Component */}
+    </main>
   );
 }
+
+/* Footer needs a "buy me wishes button" and "this is not affiliated with Miyoho" blurb */
 
 export default App;
