@@ -20,6 +20,7 @@
     ],
     "rules": {
         "comma-dangle": ["error", "never"],
+        "linebreak-style": 0,
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
         "object-curly-newline": ["error", {
             "ObjectExpression": "always",
@@ -27,6 +28,7 @@
             "ImportDeclaration": "never",
             "ExportDeclaration": { "multiline": true, "minProperties": 4 }
         }],
-        "react/jsx-one-expression-per-line": [0]
+        "react/jsx-one-expression-per-line": [0],
+        "react/prop-types": [0]
     }
 }
